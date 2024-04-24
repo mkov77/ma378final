@@ -1,8 +1,8 @@
 ---
-title: "ma378final"
+title: "Math 378 Final Project"
 ---
 
-This is a Quarto website.
+Hi there! It's Michaela Kovalsky. This is a Quarto website for Spring 2024 Math 378 Final Project.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
