@@ -20,7 +20,6 @@ jobs:
       - name: Restore R environment
         run: |
           Rscript -e "if (!requireNamespace('renv', quietly = TRUE)) install.packages('renv')"
-          Rscript -e "options(pkgType = 'binary')"
           Rscript -e "renv::restore()"
 
       - name: Render and Publish
